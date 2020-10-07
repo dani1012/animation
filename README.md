@@ -1,1 +1,1 @@
-# animation
+# Neon effect animation
